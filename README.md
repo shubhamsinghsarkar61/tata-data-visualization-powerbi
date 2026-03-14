@@ -1,23 +1,47 @@
 📊 Tata Data Visualization Virtual Experience (Power BI)
 
-📌 Project Overview
+🧾 Project Overview
 
-This project is part of the Tata Data Visualization Virtual Experience Program.
-The goal of this project was to analyze retail transaction data and generate meaningful business insights using Microsoft Power BI.
+This project is part of the Tata Data Visualization Virtual Experience Program hosted on Forage.
 
-The analysis focuses on revenue trends, customer purchasing behavior, top-performing countries, and global product demand.
+The objective of this project was to analyze an Online Retail transactional dataset and transform raw business data into meaningful insights using Microsoft Power BI.
+
+The analysis focuses on identifying revenue trends, customer behavior, top-performing countries, and global product demand.
 
 ---
 
 🧠 Business Scenario
 
-The CEO and CMO requested insights from the retail dataset to better understand business performance and identify growth opportunities.
+The CEO and CMO requested insights from the retail dataset to better understand business performance and identify potential growth opportunities.
 
-The objective was to transform raw transaction data into actionable insights that support business decision-making.
+The goal was to convert raw transaction data into actionable insights that support business decision-making.
+
+---
+
+📂 Dataset
+
+Dataset used in this project:
+
+Online Retail Dataset
+
+The same dataset was used across Task 1 and Task 3 to explore business questions and create the Power BI dashboard.
+
+The dataset contains transactional information such as:
+
+- Invoice Number
+- Product Code
+- Product Description
+- Quantity
+- Unit Price
+- Invoice Date
+- Customer ID
+- Country
 
 ---
 
 📋 Task 1 – Framing the Business Questions
+
+By exploring the Online Retail dataset, business questions from the CEO and CMO were identified.
 
 CEO Questions
 
@@ -35,80 +59,84 @@ CMO Questions
 
 ---
 
-📊 Task 2 – Choosing the Right Visuals
+📊 Task 2 – Choosing the Right Visualizations
 
 Appropriate visualization techniques were selected based on the business questions.
 
 Selected visuals include:
 
-- Line Chart → Monthly revenue trend analysis
-- Stacked Bar Chart → Country-wise revenue breakdown
-- Column Chart → Top customers comparison
-- Map Chart → Geographic demand analysis
-- Distribution Analysis → Customer purchasing behavior
+• Line Chart → Monthly revenue trend analysis
+• Stacked Bar Chart → Country-wise revenue breakdown
+• Column Chart → Top customers comparison
+• Map Chart → Geographic demand analysis
+• Distribution Analysis → Customer purchasing behavior
+
+These visualizations help stakeholders quickly understand patterns and trends in the data.
 
 ---
 
 🧹 Task 3 – Data Cleaning & Dashboard Development
 
-The dataset was imported into Microsoft Power BI and cleaned using Power Query.
+The dataset was imported into Microsoft Power BI and cleaned using Power Query before building the dashboard.
 
 Data Cleaning Steps
 
 To remove invalid transactions, the following filters were applied:
 
 Quantity ≥ 1
+
 UnitPrice ≥ 0
 
-These filters ensured that returned products and incorrect transactions were removed from the dataset.
+These filters ensured that returned items and incorrect transactions were excluded from the analysis.
+
+---
 
 📈 Dashboards Created
 
-1. Monthly Revenue Trend (2011)
-2. Top 10 Countries by Revenue
-3. Top 10 Customers by Revenue
-4. Product Demand by Country (Map Visualization)
+The following visuals were created in Power BI:
+
+1️⃣ Monthly Revenue Trend (2011)
+2️⃣ Top 10 Countries by Revenue
+3️⃣ Top 10 Customers by Revenue
+4️⃣ Product Demand by Country (Map Visualization)
+
+These dashboards provide a clear overview of business performance and customer purchasing patterns.
 
 ---
 
 🎤 Task 4 – Communicating Insights
 
-A video presentation was recorded explaining the key insights derived from the dashboards.
+A video presentation was recorded explaining the insights derived from the Power BI dashboard.
 
-The presentation focused on communicating data-driven findings and providing recommendations for business growth.
+The goal was to communicate analytical findings clearly to business stakeholders and provide data-driven recommendations.
 
 ---
 
 🔍 Key Insights
 
-• Revenue increases significantly in the last quarter of the year.
-• Countries such as Netherlands, Ireland, Germany, and France generate strong revenue.
-• Business revenue is distributed among multiple customers rather than relying on a single customer.
-• Most product demand is concentrated in European regions.
+• Revenue shows significant growth during the last quarter of the year.
+• Countries such as Netherlands, Ireland, Germany, and France generate strong revenue outside the UK market.
+• Revenue is distributed across multiple customers rather than depending on a single customer.
+• Most product demand is concentrated in European regions, while some regions show growth opportunities.
 
 ---
 
 🛠 Tools & Technologies Used
 
-- Microsoft Power BI
-- Excel Dataset
-- Data Visualization
-- Business Intelligence Analysis
-
----
-
-📂 Dataset
-
-Online Retail Dataset provided as part of the Tata Virtual Experience Program.
+• Microsoft Power BI
+• Microsoft Excel
+• Data Cleaning (Power Query)
+• Data Visualization
+• Business Intelligence Analysis
 
 ---
 
 📁 Project Files Included
 
-- Power BI Dashboard (.pbix)
-- Dataset (Excel File)
-- Dashboard Screenshots
-- Completion Certificate
+• Power BI Dashboard (.pbix)
+• Online Retail Dataset (.xlsx)
+• Dashboard Screenshots (.png)
+• Certificate of Completion (.pdf)
 
 ---
 
@@ -117,4 +145,4 @@ Online Retail Dataset provided as part of the Tata Virtual Experience Program.
 Shubham Singh Sarkar
 
 Aspiring Data Analyst
-Power BI | Data Visualization | Business Analytics
+Power BI • Data Visualization • Business Analytics
